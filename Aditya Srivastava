@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World!!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima saepe ab mollitia repellendus veniam itaque molestiae nisi at sint accusamus, voluptates laudantium reprehenderit et aliquid hic maxime aliquam sequi? Quis.<br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum hic ut quas placeat quo explicabo excepturi quos expedita animi exercitationem? Facilis ducimus magni, quis dolore animi hic exercitationem! Animi, libero!</p><br>
+
+    <img src="https://images.axios.com/knsqCzAUJasO2gvNeJIT75g36-k=/0x580:5568x3712/1920x1080/2018/11/30/1543613757886.jpg" alt="This is a microsoft office image" height="300px">
+
+</body>
+</html>
